@@ -29,6 +29,11 @@ This project integrates OpenWeatherMap API using Python and visualizes real-time
 - Seaborn
 - OpenWeatherMap API
 
+## OUTPUT
+
+<img width="1895" height="867" alt="Image" src="https://github.com/user-attachments/assets/5a0a3c56-c29b-47d3-b629-4aad0c253ddb" />
+<img width="1902" height="987" alt="Image" src="https://github.com/user-attachments/assets/69c0057b-7560-496e-988b-47f8d94946d0" />
+
 ## Run Project
 
 ```bash
