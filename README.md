@@ -1,5 +1,10 @@
 # API INTEGRATION AND DATA VISUALIZATION
-
+*COMPANY*: CODTECH IT SOLUTIONS
+*NAME*: TUHIN ROY
+*INTERN ID*: CTIS05SQ
+*DOMAIN*: PYTHON
+*DURATION*: 4 WEEKS
+*MENTOR*: NEELA SANTOSH
 ## Overview
 This project integrates OpenWeatherMap API using Python and visualizes real-time weather data using Streamlit, Matplotlib, and Seaborn.
 
