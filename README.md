@@ -1,4 +1,4 @@
-# Weather Data Visualization Dashboard
+# API INTEGRATION AND DATA VISUALIZATION
 
 ## Overview
 This project integrates OpenWeatherMap API using Python and visualizes real-time weather data using Streamlit, Matplotlib, and Seaborn.
